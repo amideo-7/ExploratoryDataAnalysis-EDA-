@@ -61,5 +61,6 @@ To explore this dataset various libraries like Pandas, NumPy, Seaborn, etc are u
 
 This concludes the Exploratory Data Analysis project of Netflix dataset. 
 
-<center><img src="https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Symbol.png" width="10%" height="10%"/>
-</center>
+<div align="center">
+<img src="https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Symbol.png" width="10%" height="10%"/>
+</div>
