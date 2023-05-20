@@ -59,4 +59,4 @@ To explore this dataset various libraries like Pandas, NumPy, Seaborn, etc are u
 
 ![Genre](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/genre.png)
 
-This concludes the Exploratory Data Analysis project of Netflix dataset. ![netflix_symbol](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Symbol.png)
+This concludes the Exploratory Data Analysis project of Netflix dataset. <img src="https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Symbol.png" width="50%" height="50%" />
