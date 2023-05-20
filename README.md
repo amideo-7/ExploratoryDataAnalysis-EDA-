@@ -58,3 +58,5 @@ To explore this dataset various libraries like Pandas, NumPy, Seaborn, etc are u
 ***Word Cloud of Genre***
 
 ![Genre](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/genre.png)
+
+This concludes the Exploratory Data Analysis project of Netflix dataset. ![netflix_symbol](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Symbol.png)
