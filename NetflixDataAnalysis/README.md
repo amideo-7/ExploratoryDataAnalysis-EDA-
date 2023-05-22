@@ -1,7 +1,7 @@
 # Netflix Data Analysis
 Analyzing and Visualizing Netflix dataset.
 
-![Netflix Logo](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Logo.png)
+![Netflix Logo](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/Netflix_Logo.png)
 
 Netflix is a streaming service that offers a wide variety of movies and TV shows to its subscribers. The company collects a lot of data about its users, including what they watch, how long they watch it for, and what they rate it. This data can be used to improve the Netflix experience for users in a number of ways.
 
@@ -25,44 +25,44 @@ To explore this dataset various libraries like Pandas, NumPy, Seaborn, etc are u
 
 ***Count of the Type of content present on Netflix***
 
-![type_count](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/type_count.png)
+![type_count](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/type_count.png)
 
 ***Count of the various types of ratings given to shows and movies on Netflix***
 
-![rating_count](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/rating_count.png)
+![rating_count](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/rating_count.png)
 
 ***Realationship between type and ratings***
 
-![type_vs_ratings](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/type_vs_rating.png)
+![type_vs_ratings](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/type_vs_rating.png)
 
 ***Distribution of Type of content present on Netflix***
 
-![distribution_of_type](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/distribution_of_type.png)
+![distribution_of_type](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/distribution_of_type.png)
 
 ***Distribution of Ratings***
 
-![distribution_of_ratings](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/percentage_of_each_rating.png)
+![distribution_of_ratings](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/percentage_of_each_rating.png)
 
 ***Word Cloud of Countries***
 
-![countries](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/country.png)
+![countries](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/country.png)
 
 ***Word Cloud of Cast***
 
-![Cast](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/cast.png)
+![Cast](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/cast.png)
 
 ***Word Cloud of Directors***
 
-![Directors](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/directors.png)
+![Directors](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/directors.png)
 
 ***Word Cloud of Genre***
 
-![Genre](https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/genre.png)
+![Genre](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/genre.png)
 
 This concludes the Exploratory Data Analysis project of Netflix dataset. 
 
 
 
 <div align="center">
-<img src="https://github.com/amideo-7/NetflixDataAnalysis/blob/main/Images/Netflix_Symbol.png" width="10%" height="10%"/>
+<img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/NetflixDataAnalysis/Images/Netflix_Symbol.png" width="10%" height="10%"/>
 </div>
