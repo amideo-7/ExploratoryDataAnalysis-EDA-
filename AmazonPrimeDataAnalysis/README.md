@@ -2,7 +2,9 @@
 
 **Link:** [View the plots in NBViewer](https://nbviewer.org/github/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/amazonPrimeDataAnalysis.ipynb)
 
-![Amazon Prime Video Logo](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/prime-video-logo.png)
+<div align="center">
+<img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/prime-video-logo.png"/>
+</div>
 
 Amazon Prime Video is a popular video streaming service offered by Amazon. It provides subscribers with a vast library of movies, TV shows, and original content.
 With millions of users worldwide, Prime Video offers a wide range of genres and exclusive productions, making it a prominent player in the streaming industry.
