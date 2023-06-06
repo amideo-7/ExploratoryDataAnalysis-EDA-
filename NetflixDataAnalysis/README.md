@@ -20,6 +20,14 @@ To explore this dataset various libraries like Pandas, NumPy, Seaborn, etc are u
 
 - **WordCloud**: Used to create beautiful word clouds based on the data.
 
+
+
+***To install the required libraries run the following code in the terminal of your project environment:***
+
+```
+    pip install pandas numpy matplotlib seaborn wordcloud
+```
+
 ## Findings after Data Analysis
 
 
