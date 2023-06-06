@@ -69,6 +69,6 @@ This concludes the Exploratory Data Analysis project of Amazon Prime Video datas
 
 
 <div align="center">
-<img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/amazon-logo.png" width="10%" height="10%"/>
+<img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/amazon-logo.png" width="20%" height="20%"/>
 <img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/primelogo.png" width="10%" height="10%"/>
 </div>
