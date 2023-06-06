@@ -48,17 +48,25 @@ The dataset covers a wide range of time periods and includes data from diverse d
 
   [View the plots in NBViewer](https://nbviewer.org/github/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/amazonPrimeDataAnalysis.ipynb)
 
+  
+
 ***Characteristics of Data***
 
 ![Characteristics of Data](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Plots/CharacteristicsOfData.png)
+
+
 
 ***Genre Distribution based on number of Movies and Shows***
 
 ![Genre Distribution based on number of Movies and Shows](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Plots/GenreDistributionBasedOnNumberOfMoviesAndShows.png)
 
+
+
 ***Genre Distribution based on IMDB Votes***
 
 ![Genre Distribution based on IMDB Votes](https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Plots/GenreDistributionBasedOnIMDBVotes.png)
+
+
 
 ***IMDB Score Distribution by Genre***
 
@@ -69,6 +77,6 @@ This concludes the Exploratory Data Analysis project of Amazon Prime Video datas
 
 
 <div align="center">
-<img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/amazon-logo.png" width="20%" height="20%"/>
+<img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/amazon-logo.png" width="15%" height="15%"/>
 <img src="https://github.com/amideo-7/ExploratoryDataAnalysis-EDA-/blob/main/AmazonPrimeDataAnalysis/Images/primelogo.png" width="10%" height="10%"/>
 </div>
